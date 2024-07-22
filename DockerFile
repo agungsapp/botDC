@@ -16,5 +16,7 @@ COPY . .
 # Ekspos port aplikasi jika diperlukan
 EXPOSE 8000
 
+
+
 # Jalankan aplikasi
 CMD ["python", "main.py"]

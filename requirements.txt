@@ -1,12 +1,2 @@
-# Membuat virtual environment baru
-python -m venv venv
-
-# Aktivasi virtual environment
-# Untuk Windows
-venv\Scripts\activate
-
-# Untuk macOS/Linux
-source venv/bin/activate
-
-# Instal ulang pustaka OpenAI dan discord.py
-pip install openai discord.py
+discord.py
+openai

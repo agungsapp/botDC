@@ -1,0 +1,7 @@
+[build]
+  # Tentukan path ke file requirements.txt
+  entrypoint = "python main.py"
+
+[variables]
+  DISCORD_TOKEN = "@mydiscordtoken"
+  OPENAI_API_KEY = "@myopenaiapikey"
